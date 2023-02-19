@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/71237415/219969390-bc843b28-652c-456f-
 
 
 
-**Live App here:**
+**Live App here:** https://melodic-daffodil-0c8e96.netlify.app/
 
 ## Tech Stack
 
