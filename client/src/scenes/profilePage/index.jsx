@@ -16,7 +16,7 @@ const ProfilePage = () => {
 
   const getUser = async () => {
     const response = await fetch(
-      `https://socially-ly2m.onrender.com:8080/users/${userId}`,
+      `https://socially-ly2m.onrender.com/users/${userId}`,
       {
         method: "GET",
         headers: { Authorization: `Bearer ${token}` },

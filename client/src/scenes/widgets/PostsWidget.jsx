@@ -9,13 +9,10 @@ const PostsWidget = ({ userId, isProfile = false }) => {
   const token = useSelector((state) => state.token);
 
   const getPosts = async () => {
-    const response = await fetch(
-      "https://socially-ly2m.onrender.com:8080/posts",
-      {
-        method: "GET",
-        headers: { Authorization: `Bearer ${token}` },
-      }
-    );
+    const response = await fetch("https://socially-ly2m.onrender.com/posts", {
+      method: "GET",
+      headers: { Authorization: `Bearer ${token}` },
+    });
     const data = await response.json();
     dispatch(setPosts({ posts: data }));
   };
@@ -23,7 +20,7 @@ const PostsWidget = ({ userId, isProfile = false }) => {
   const getUserPosts = async () => {
     console.log(userId);
     const response = await fetch(
-      `https://socially-ly2m.onrender.com:8080/posts/${userId}/posts`,
+      `https://socially-ly2m.onrender.com/posts/${userId}/posts`,
       {
         method: "GET",
         headers: { Authorization: `Bearer ${token}` },
