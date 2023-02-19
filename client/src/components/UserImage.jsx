@@ -8,7 +8,7 @@ const UserImage = ({ image, size = "60px" }) => {
         width={size}
         height={size}
         alt="user"
-        src={`https://socially-ly2m.onrender.com/assets/${image}`}
+        src={`http://localhost:8080/assets/${image}`}
       />
     </Box>
   );
