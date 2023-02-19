@@ -1,7 +1,7 @@
 
 # Sociopedia
 
-This is a simple, Full Stacj social meida application.
+This is a simple, Full Stack social media application.
 
 
 ## Features
@@ -18,8 +18,13 @@ This is a simple, Full Stacj social meida application.
 
 
 ## Demo
+https://user-images.githubusercontent.com/71237415/219969390-bc843b28-652c-456f-af82-9f3fb2b871f5.mp4
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
+
+
 
 **Live App here:**
 
@@ -102,13 +107,13 @@ Javascript, HTML, CSS, Tailwind, Material ui React, Angular, Nestjs, Nodejs, Exp
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on a personal project.
 
-🧠 I'm currently learning Angular for enterprise level architectures, along with Nest js on the same level of apps.
+🧠 I'm currently learning Angular for large scale apps, along with Nest js on the same scale.
 
 👯‍♀️ I'm looking to collaborate on in any projects of my listed stack.
 
-🤔 I'm looking for help with Enterprise level apps architectures, both on backend and frontend.
+🤔 I'm looking for help with large scale apps , both on backend and frontend.
 
 
 📫 How to reach me: https://twitter.com/kotaid1
